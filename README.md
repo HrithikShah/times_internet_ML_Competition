@@ -20,7 +20,9 @@ clickIp: IP Address
 clmbuser id : unique user id
 impr id: Unique Key for every served impression
 site id: Publisher wesite
-goal id: Conversion` goal type identification id
+goal id: Conversion
+goal type identification id
+
 City id / State id / CountryDim id: Geo Details
 browser id: browser used for accessing publisher on any device on web.
 adslot id: slot id where advertisement is displayed on any site (unqiue for all sites)
@@ -40,11 +42,18 @@ Test Data.csv	Test data	csv
 Data Dictionary
 Here's a brief version of what you'll find in the data description file.
 
+link for click.csv :
+
+
+          https://drive.google.com/file/d/10gMu_h2rfitWd1vG0cCRbFMdv0g12Xhx/view?usp=sharing
+        
+
 Variable	Description
 record_id	Unique record id
 conversion_fraud	conversion_fraud column as True for marking a conversion entry as fraud
 Submission
 Submission file
 Presentation (Download sample ppt)
+
 Evaluation Metric
 Your score will be calculated based on Accuracy.
