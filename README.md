@@ -1,5 +1,12 @@
 # times_internet_ML_Competition
 
+
+##link for click.csv :
+
+
+          https://drive.google.com/file/d/10gMu_h2rfitWd1vG0cCRbFMdv0g12Xhx/view?usp=sharing
+          
+          
 Conversion fraud in Digital Advertising
 Digital Advertising is changing at a rapid pace with a huge increase in digital audience. At the same time, the digital advertising success metric is shifting from audience volume (eg. Impression count) to conversions (eg. lead submissions) as the success metric. This requires higher transparency and control on the conversions.
 
@@ -42,10 +49,7 @@ Test Data.csv	Test data	csv
 Data Dictionary
 Here's a brief version of what you'll find in the data description file.
 
-link for click.csv :
 
-
-          https://drive.google.com/file/d/10gMu_h2rfitWd1vG0cCRbFMdv0g12Xhx/view?usp=sharing
         
 
 Variable	Description
